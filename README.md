@@ -1,4 +1,4 @@
-# Daily Code Challenges Solutions | LeetCode | GFG
+# Daily Code Challenge Solutions | LeetCode | GFG
 
 ## Overview
 This repository contains my solutions to daily coding challenges from LeetCode and GeeksforGeeks (GFG POTD). I'm solving problems in both C++ and Python, and I upload my solutions regularly. If you are facing any issue in understanding code/part of code or intuition then you can contact me directly (*see Table of Contents*). I am **Open To Discussions** regarding any topic.😊
