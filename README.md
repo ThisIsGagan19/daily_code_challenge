@@ -20,7 +20,7 @@ This repository contains my solutions to daily coding challenges from LeetCode a
 - WhatsApp: If you would like to contact me on WhatsApp, email me your contact details and topic of discussion, please feel free to let me know.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/daily-code-challenges.git`.
+1. Clone the repository: `git clone https://github.com/giriraj191/Daily-Challenge-LeetCode-GFG.git`.
 2. Navigate to the platform folder (leetCode or GFG).
 3. Navigate to the month folder, you will find the datewise solutions there in both `C++` and `Python`.
 4. Open the solution file using an IDE or text editor.
