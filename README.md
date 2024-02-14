@@ -20,7 +20,7 @@ This repository contains my solutions (15-02-2024 Onwards) to daily coding chall
 - WhatsApp: If you would like to contact me on WhatsApp, email me your contact details and topic of discussion, please feel free to let me know.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/giriraj191/daily_challenge_coding.git`.
+1. Clone the repository: `git clone https://github.com/giriraj191/daily_code_challenge.git`.
 2. Navigate to the platform folder (leetCode or GFG).
 3. Navigate to the month folder, you will find the datewise solutions there in both `C++` and `Python`.
 4. Open the solution file using an IDE or text editor.
