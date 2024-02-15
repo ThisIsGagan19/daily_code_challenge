@@ -15,9 +15,9 @@ This repository contains my solutions (15-02-2024 Onwards) to daily coding chall
 - Python
 
 ## Contact
-- LinkedIn: [Giriraj (www.linkedin.com/in/giriraj191)](www.linkedin.com/in/giriraj191)
-- Email: graj05645@gmail.com
-- WhatsApp: If you would like to contact me on WhatsApp, email me your contact details and topic of discussion, please feel free to let me know.
+Connect with me on LinkedIn - Giriraj @giriraj191 [Connect](https://www.linkedin.com/in/giriraj191/)  
+Want to discuss a topic, Great! email me at graj05645@gmail.com  
+If you would like to contact me on WhatsApp, email me your contact details and topic of discussion and I will get back to you, please feel free to let me know.
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/giriraj191/daily_code_challenge.git`.
