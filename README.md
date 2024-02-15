@@ -30,7 +30,7 @@ If you would like to contact me on WhatsApp, email me your contact details and t
 If you'd like to contribute or suggest improvements to the solutions, feel free to open an issue or submit a pull request.
 
 ## License
-Copyright 2024 Giriraj (graj05645@gmail.com). All Rights Reserved  
+Copyright (c) 2024 Giriraj (graj05645@gmail.com). All Rights Reserved  
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
