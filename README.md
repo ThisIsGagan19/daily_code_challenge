@@ -1,7 +1,7 @@
 # Daily Code Challenge Solutions | LeetCode | GFG
 
 ## Overview
-This repository contains my solutions (15-02-2024 Onwards) to daily coding challenges from LeetCode and GeeksforGeeks (GFG POTD). I'm solving problems in both C++ and Python, and I upload my solutions regularly. If you are facing any issue in understanding code/part of code or intuition then you can contact me directly (*see Table of Contents*). I am **Open To Discussions** regarding any topic.😊
+This repository contains my solutions (21-02-2024 Onwards) to daily coding challenges from LeetCode and GeeksforGeeks (GFG POTD). I'm solving problems in both C++ and Python, and I upload my solutions regularly. If you are facing any issue in understanding code/part of code or intuition then you can contact me directly (*see Table of Contents*). I am **Open To Discussions** regarding any topic.😊
 
 ## Table of Contents
 - [Languages](#languages)
