@@ -15,7 +15,7 @@ This repository contains my solutions to daily coding challenges from LeetCode a
 - Python
 
 ## Contact
-Please feel free to connect with me on LinkedIn. You can find my profile under the name/handle - `Giriraj/@giriraj191`. [Connect](https://www.linkedin.com/in/giriraj191/)  
+Feel free to connect with me on LinkedIn. You can find my profile under the name/handle - [Giriraj / @giriraj191](https://www.linkedin.com/in/giriraj191/)  
 I welcome discussions on various topics and invite you to reach out via email at graj05645@gmail.com. Additionally, if you prefer to communicate via WhatsApp, kindly email me your contact details and the topic of discussion, and I will promptly get back to you. Thank you, and I look forward to engaging with you.
 
 ## Usage
