@@ -15,9 +15,8 @@ This repository contains my solutions to daily coding challenges from LeetCode a
 - Python
 
 ## Contact
-Connect with me on LinkedIn - Giriraj @giriraj191 [Connect](https://www.linkedin.com/in/giriraj191/)  
-Want to discuss a topic, Great! email me at graj05645@gmail.com  
-If you would like to contact me on WhatsApp, email me your contact details and topic of discussion and I will get back to you, please feel free to let me know.
+Please feel free to connect with me on LinkedIn. You can find my profile under the name/handle - `Giriraj/@giriraj191`. [Connect](https://www.linkedin.com/in/giriraj191/)  
+I welcome discussions on various topics and invite you to reach out via email at graj05645@gmail.com. Additionally, if you prefer to communicate via WhatsApp, kindly email me your contact details and the topic of discussion, and I will promptly get back to you. Thank you, and I look forward to engaging with you.
 
 ## Usage
 1. Clone the repository: `git clone https://github.com/giriraj191/daily_code_challenge.git`.
@@ -31,13 +30,5 @@ If you'd like to contribute or suggest improvements to the solutions, feel free 
 
 ## License
 Copyright (c) 2024 Giriraj (graj05645@gmail.com). All Rights Reserved  
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0  
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 
