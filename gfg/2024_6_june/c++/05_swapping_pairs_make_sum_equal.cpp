@@ -12,7 +12,7 @@
 
 
 // TIME COMPLEXITY
-// O(N + M)
+// O(Nlog(N) + Mlog(M))
 
 // SPACE COMPLEXITY
 // O(1)
