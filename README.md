@@ -33,5 +33,6 @@ If you'd like to contribute or suggest improvements to the solutions, feel free 
 
 ## License
 Apache License Version 2.0, January 2004  
-Copyright (c) 2024 Giriraj (graj05645@gmail.com).  
+Copyright (c) 2024 Giriraj (graj05645@gmail.com)  
+
 The License can be accessed at http://www.apache.org/licenses/LICENSE-2.0  
