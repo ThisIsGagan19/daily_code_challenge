@@ -1,5 +1,5 @@
 // TIME COMPEXITY
-// O(nlogn + )
+// O(nlogn)
 
 // SPACE COMPEXITY
 // O(n)
