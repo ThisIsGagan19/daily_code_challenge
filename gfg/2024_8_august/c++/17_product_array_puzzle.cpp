@@ -1,0 +1,30 @@
+// TIME COMPEXITY
+// O(n)
+
+// SPACE COMPEXITY
+// O(n)
+
+// CODE
+
+class Solution {
+  public:
+
+    vector<long long int> productExceptSelf(vector<long long int>& nums) {
+        int n=nums.size();
+        vector<long long int> ans(n,1);
+        //left product
+        long long int left=1;
+        for(int i=0;i<n;i++){
+            ans[i]=left;
+            left=left*nums[i];
+        }
+        
+        //right product
+        long long int right=1;
+        for(int i=n-1;i>=0;i--){
+            ans[i]*=right;
+            right=right*nums[i];
+        }
+        return ans;
+    }
+};
