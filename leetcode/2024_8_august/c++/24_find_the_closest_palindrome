@@ -1,0 +1,48 @@
+// TIME COMPEXITY
+// O(n)
+
+// SPACE COMPEXITY
+// O(n)
+
+// CODE
+
+class Solution {
+public:
+    string nearestPalindromic(string n) {
+        long num = stol(n);
+        long len = n.length();
+
+        if(len == 1) return to_string(stol(n)-1);
+
+        vector<long> logbaag;
+        logbaag.push_back(pow(10,len - 1) - 1); // len - 1
+        logbaag.push_back(pow(10,len) + 1); // len + 1
+
+        long aadi_len = (len+1) / 2;
+        long prefix = stol(n.substr(0,aadi_len));
+        vector<long> prefixwale = {prefix, prefix+1, prefix - 1};
+
+        for(auto it : prefixwale){
+            string left = to_string(it);
+            string right = left;
+            if(len % 2) right.pop_back(); // if odd just pop
+            reverse(right.begin(), right.end());
+            logbaag.push_back(stol(left+right));
+        }
+
+        long min_diff = INT_MAX;
+        long closet_palindrome = 0;
+        for(auto it : logbaag){
+            long diff = abs(num-it);
+            if(it != num && diff < min_diff){
+                closet_palindrome = it;
+                min_diff = diff;
+            }
+            else if(min_diff == diff){
+                closet_palindrome = min(closet_palindrome,it);
+            }
+        }
+
+        return to_string(closet_palindrome);
+    }
+};
