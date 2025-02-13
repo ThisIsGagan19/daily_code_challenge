@@ -1,5 +1,5 @@
 // TC : O(n * k)  k -> no. of digits in each number
-// SC : O(n)
+// SC : O(82) -> constant
 
 // CODE
 
